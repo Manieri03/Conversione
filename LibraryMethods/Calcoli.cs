@@ -6,7 +6,7 @@ namespace LibraryMethods
     {
         public static bool Calcolo1()
         {
-            double a = 1.0 / 10.0;
+            double a = 1.0 / 10.0 ;
             double prod = a * 10.0;
             if (prod == 1.0)
                 return true;
